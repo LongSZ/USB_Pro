@@ -1,0 +1,6 @@
+LIBRARY "IUsb"
+
+EXPORTS
+	IsDevExists
+	GetSerial
+
